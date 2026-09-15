@@ -1,9 +1,0 @@
-[1mdiff --git a/Untitled-2.py b/Untitled-2.py[m
-[1mindex 6d95fe9..ee7a9b9 100644[m
-[1m--- a/Untitled-2.py[m
-[1m+++ b/Untitled-2.py[m
-[36m@@ -1 +1 @@[m
-[31m-print("Hello world")[m
-\ No newline at end of file[m
-[32m+[m[32mprint("Hello Toan")[m
-\ No newline at end of file[m
